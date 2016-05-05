@@ -1,0 +1,9 @@
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\bin\Debug\MetarDecoder.exe.config
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\bin\Debug\MetarDecoder.exe
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\bin\Debug\MetarDecoder.pdb
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\obj\Debug\MetarDecoder.csprojResolveAssemblyReference.cache
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\obj\Debug\MetarDecoder.Form1.resources
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\obj\Debug\MetarDecoder.Properties.Resources.resources
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\obj\Debug\MetarDecoder.csproj.GenerateResource.Cache
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\obj\Debug\MetarDecoder.exe
+C:\Users\vinic\Dropbox\Programação\MetarDecoder\MetarDecoder\obj\Debug\MetarDecoder.pdb
